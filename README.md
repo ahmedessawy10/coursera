@@ -57,4 +57,4 @@ This text is ***really important***.
 3.  Close the file.
 
 #### link
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
+My favorite search engine is [Duck Duck Go](https://image.freepik.com/free-photo/image-human-brain_99433-298.jpg)
