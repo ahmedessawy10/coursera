@@ -52,9 +52,9 @@ This text is ***really important***.
 1.  Open the file containing the Linux mascot.
 2.  Marvel at its beauty.
 
-    ![Tux, the Linux mascot](/assets/images/tux.png)
+    ![Tux, the Linux mascot](https://image.freepik.com/free-photo/image-human-brain_99433-298.jpg)
 
 3.  Close the file.
 
 #### link
-My favorite search engine is [Duck Duck Go](https://image.freepik.com/free-photo/image-human-brain_99433-298.jpg)
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
